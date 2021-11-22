@@ -10,4 +10,4 @@ Pueden hacer lo que quieran...
 update desde github  xxx
 
 ## update desde local
-  local  kkk
+  local  kkk xxx
