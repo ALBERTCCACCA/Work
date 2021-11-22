@@ -8,3 +8,6 @@ Pueden hacer lo que quieran...
 
 ## update desde github
 update desde github
+
+## update desde local
+  local  
